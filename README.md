@@ -4,9 +4,10 @@
 
 # pugstagram
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+This is a project is running in the following link.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+[Pugstagram](https://pugstagramplatzi.netlify.app/)
+
 
 ```bash
 npx degit sveltejs/template svelte-app
